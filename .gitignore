@@ -11,3 +11,6 @@ go-play-ascii*
 *.out
 
 go.work
+
+#tests directory
+tests/
